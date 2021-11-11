@@ -45,4 +45,20 @@ Tables now.
 | While this is a small one.  |
 
 
+Highlight test:
+
+```bash
+ls one
+whoami "This is"
+dir '\hi
+echo "$@"
+```
+
+```shell
+ls one
+whoami "This is"
+dir '\hi
+echo "$@"
+```
+
 OK that's all
