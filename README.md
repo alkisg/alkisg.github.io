@@ -50,6 +50,8 @@ Tables now.
 
 [This is a link to a role](role:kbd)
 
+[This is a link to a role](role:kbd "parameters")
+
 [This is a link to a role](https://role "kbd")
 
 Highlight test:
