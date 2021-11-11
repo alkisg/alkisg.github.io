@@ -44,6 +44,13 @@ Tables now.
 | ----- |
 | While this is a small one.  |
 
+[This is a link to a role](# "role parameters")
+
+[This is a link to a role](# "kbd")
+
+[This is a link to a role](role:kbd)
+
+[This is a link to a role](https://role "kbd")
 
 Highlight test:
 
