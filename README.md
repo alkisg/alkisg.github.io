@@ -42,6 +42,20 @@ Tables now.
 >    > Nesting is also doable!
 
 
+> **⚠️ Warning:**  
+> But it might be better to use plain bold, followed by two spaces for a line break...
+
+> **⚠️ Note:**
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+> Or the content may start on the same line, to save space.
+
 | Note: |
 | ----- |
 | Hmmm let's see if we can abuse a table to make it appear like an admonition. Hmmm let's see if we can abuse a table to make it appear like an admonition. Hmmm let's see if we can abuse a table to make it appear like an admonition. <br> Hmmm let's see if we can abuse a table to make it appear like an admonition.   |
