@@ -35,6 +35,13 @@ See also: https://www.markdownguide.org/basic-syntax/
 
 Tables now.
 
+> ##### ⚠️ Note
+> It's possible to abuse blockquotes and headings to create admonitions!
+>
+>    > ##### ⚠️ Tip
+>    > Nesting is also doable!
+
+
 | Note: |
 | ----- |
 | Hmmm let's see if we can abuse a table to make it appear like an admonition. Hmmm let's see if we can abuse a table to make it appear like an admonition. Hmmm let's see if we can abuse a table to make it appear like an admonition. <br> Hmmm let's see if we can abuse a table to make it appear like an admonition.   |
